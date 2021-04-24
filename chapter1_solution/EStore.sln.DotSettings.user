@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5dcc8c29_002D3c88_002D4b79_002D8edc_002D5498f3edc6b6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Calculates_Shipping_Cost" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Project Location="/Users/danebalia/Documents/Personal/Manning/LiveProjectAutomatedTesting/unit_testing_and_integration/start_solution/ShoppingCartService.Test" Presentation="&amp;lt;ShoppingCartService.Test&amp;gt;" /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=976e276f_002D6c40_002D4436_002D83d7_002D837ecd8b6427/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from Solution" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ba8fea87_002Dbe2f_002D4abe_002D9c10_002D48bb24016786/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Calculates_Shipping_Cost_For_International #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bcda9c0e_002Dc6e8_002D46ab_002Db4b1_002Dfa66855bde12/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eaf0df53_002D779c_002D4995_002D9cd3_002D6fc0600646e3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Calculates_Shipping_Cost_For_International" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::B6393D55-4600-46F1-AE58-067410B3C6A9::net5.0::ShoppingCartService.Test.BusinessLogic.ShippingCalculatorTest.Calculates_Shipping_Cost_For_International&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
