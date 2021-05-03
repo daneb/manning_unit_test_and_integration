@@ -1,0 +1,2 @@
+/Users/danebalia/Documents/Personal/Manning/LiveProjectAutomatedTesting/Unit Testing And Integration/start_solution/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
+/Users/danebalia/Documents/Personal/Manning/LiveProjectAutomatedTesting/unit_testing_and_integration/start_solution/obj/Debug/docker-compose.dcproj.CoreCompileInputs.cache
