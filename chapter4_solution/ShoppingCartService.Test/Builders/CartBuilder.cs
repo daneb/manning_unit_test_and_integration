@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using ShoppingCartService.Controllers.Models;
 using ShoppingCartService.DataAccess.Entities;
 using ShoppingCartService.Models;
 
@@ -10,16 +11,21 @@ namespace ShoppingCartService.Test.Builders
         {
             Cart cart = new Cart
             {
-                Items = new List<Item>()
-                {
-                    new Item() {Quantity = 1}, new Item() {Quantity = 2}, new Item() {Quantity = 3}
-                },
+                Items = GenerateListOfItems(),
                 ShippingAddress = address,
                 CustomerType = customerType,
                 ShippingMethod = shippingMethod
             };
                 
             return cart;
+        }
+
+        private List<Item> GenerateListOfItems()
+        {
+            return new List<Item>()
+            {
+                new Item() {Quantity = 1}, new Item() {Quantity = 2}, new Item() {Quantity = 3}
+            };
         }
 
         public List<object[]> GenerateSameCity(Address address)
